@@ -1,5 +1,5 @@
 # 👋 GM Anon
-My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<br><br>I am<br>🛠  Frontend Developer & <br>🎨  Product Designer<br><br>🕸3️⃣  in Web3<br><br>❤️ I love Hackathons & Ramen 🍜
+My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<br><br>I am<br>🛠 Frontend Developer & 🎨 Product Designer<br><br>🕸3️⃣ in Web3<br><br>❤️ I love Hackathons & Ramen 🍜
 
 
 ## 🌐 Socials:
