@@ -16,8 +16,6 @@ My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<b
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=valeriofichera&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/valerio_eth)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=valeriofichera&icon=9&color=1)](https://visitcount.itsvg.in)
