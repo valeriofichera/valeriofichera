@@ -1,5 +1,6 @@
 # 👋 GM Anon
-My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<br><br>I am<br>🛠 Frontend Developer & 🎨 Product Designer<br><br>🕸3️⃣ in Web3<br><br>❤️ I love Hackathons & Ramen 🍜
+My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<br><br>I am a 🛠 Frontend Developer & 🎨 Product Designer in 🕸3️⃣
+<br><br>❤️ I love Hackathons & Ramen 🍜
 
 
 ## 🌐 Socials:
@@ -10,7 +11,7 @@ My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=valeriofichera&theme=yeblu&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=valeriofichera&theme=yeblu&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriofichera&theme=yeblu&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=valeriofichera&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
