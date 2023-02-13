@@ -1,3 +1,5 @@
+![valerio](https://user-images.githubusercontent.com/78494380/218367418-ff432400-be5e-425f-8f5e-053001bf48cb.gif)
+
 # 👋 GM Anon
 My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<br><br>I am a 🛠 Frontend Developer & 🎨 Product Designer in 🕸3️⃣
 <br><br>❤️ I love Hackathons & Ramen 🍜
@@ -21,3 +23,4 @@ My name is Valerio (valeriofichera.eth)<br><br>Valerio=(🛠+🎨)*🕸3️⃣<b
 [![](https://visitcount.itsvg.in/api?id=valeriofichera&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
