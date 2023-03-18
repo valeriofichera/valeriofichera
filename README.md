@@ -11,6 +11,7 @@
 🍜 & Ramen
 
 # 🌟 what makes me proud
+🏆 Winner at ETHDenver 2023<br>
 🏆 Winner at ETHLisbon 2022<br>
 🏆 Winner at HackOnChain Berlin 2022<br>
 🏆 Solana Global Fellow 2021<br>
