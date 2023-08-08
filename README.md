@@ -4,8 +4,6 @@
 
 # 👾 valeriofichera.eth =(🛠+🎨)*🕸3️⃣
 ✌️ My name is Valerio<br>
-🛠 Frontend Developer<br>
-🎨 Product Designer<br>
 🕸3️⃣ in web3<br>
 ❤️ I love Hackathons<br>
 🍜 & Ramen
