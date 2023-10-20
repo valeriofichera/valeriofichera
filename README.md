@@ -1,5 +1,4 @@
 # 👋 GM Anon
-![valerio](https://user-images.githubusercontent.com/78494380/218367418-ff432400-be5e-425f-8f5e-053001bf48cb.gif)
 
 
 # 👾 valeriofichera.eth =(🛠+🎨)*🕸3️⃣
